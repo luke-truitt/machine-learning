@@ -1,6 +1,6 @@
 # Machine Learning
 
-## Common ML Algorithms Implemented in Python
+### Common ML Algorithms Implemented in Python
 
 ## Algorithms
 
