@@ -37,3 +37,10 @@ Grouping Similar Objects
 Using the Mean of all points in a cluster to update the center
 ##### K-Medians
 Using the Median of all points in a cluster to update the center
+
+## Supplements
+
+### Validation
+
+##### Nested Cross Validation
+Method for determining the strength of a model
